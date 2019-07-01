@@ -28,15 +28,10 @@ h2 {
   background-color: #f1f3b8;
   margin: 0 auto;
 }
-.go {
-  background-color: #362391;
-  color: #f6eb9a;
-  padding: 10px 30px;
-  border-radius: 20px;
-  position: relative;
-  margin: 0, auto;
-  top: 170px;
-  left: 450px;
+.info {
+  border-radius: 10px;
+  background-color: #7b99fa;
+  border-style: none;
 }
 .card {
   position: relative;
