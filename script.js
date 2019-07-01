@@ -7,4 +7,3 @@ axios.get(`${apiEndPoint}`).then(function(response) {
   let temperature = Math.round(response.data.main.temp);
   content.innerHTML = `It is now ${temperature} º in ${city}.`;
 });
-alert("hello world");
